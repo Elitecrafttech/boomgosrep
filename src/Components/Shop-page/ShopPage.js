@@ -1,5 +1,5 @@
 import React from 'react'
-// import Navbar from '../Navbar'
+import Navbar from '../Navbar'
 import Shop from './Shop'
 import ShopHero from './ShopHero'
 import Mobilecolumn from './Mobilecolumn'
@@ -7,7 +7,7 @@ import Mobilecolumn from './Mobilecolumn'
 const ShopPage = () => {
   return (
     <div>
-        {/* <Navbar home = "active"/> */}
+        <Navbar home = "active"/>
         <Shop />
         <Mobilecolumn />
         <ShopHero/>

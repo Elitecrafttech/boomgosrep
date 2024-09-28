@@ -43,7 +43,7 @@ const items = [
     img: battery,
     percent: "60%",
     title: "(100% Polyester ) New",
-    rating: 0,
+    rating: 5,
     stock: "In stock",
     price: "€ 7,29 – € 8,14",
     icons: [<PiShuffleAngular />, <IoSearchOutline />, <GoHeart />],

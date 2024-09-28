@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from '../Navbar'
-import Order from '../Order-tracking/Order'
+// import Order from '../Order-tracking/Order'
 
 function Home() {
   return (
